@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saurabhkumar21
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning C Programming
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Front end web devlopement
 - 📫 Ping me on saurabh.kumar8301094@gmail.com
 
