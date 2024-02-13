@@ -6,12 +6,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhkumar21" alt="saurabhkumar21" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kumar_saurabh21" target="blank"><img src="https://img.shields.io/twitter/follow/kumar_saurabh21?logo=twitter&style=for-the-badge" alt="kumar_saurabh21" /></a> </p>
+<img align="right" alt="Coding" width="400"src="https://github.com/Saurabhkumar21/Saurabhkumar21/assets/109983569/cfd20201-f3c0-49a1-979c-e9444930cd6c">
+
 
 - 🔭 I’m currently working on **MERN Project**
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👯 I’m looking to collaborate on **React Development**
+- 👯 I’m looking to collaborate on **React Development** 
 
 - 🤝 I’m looking for help with **exploring different tech stacks**
 
